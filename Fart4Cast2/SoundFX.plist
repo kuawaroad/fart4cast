@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<string>fart-airy.mp3</string>
+		<string>fart-deepwet.mp3</string>
+		<string>fart-double.mp3</string>
+		<string>fart-fast.mp3</string>
+		<string>fart-flush.mp3</string>
+		<string>fart-forced.mp3</string>
+		<string>fart-gurgle.mp3</string>
+		<string>fart-long.mp3</string>
+		<string>fart-low.mp3</string>
+		<string>fart-muddy.mp3</string>
+		<string>fart-poo.mp3</string>
+		<string>fart-quick.mp3</string>
+		<string>fart-ripping.mp3</string>
+		<string>fart-splat.mp3</string>
+		<string>fart-squeak.mp3</string>
+		<string>fart-sustained.mp3</string>
+		<string>fart-tight.mp3</string>
+		<string>fart-underwater.mp3</string>
+	</array>
+</dict>
+</plist>
